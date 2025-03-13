@@ -1,5 +1,5 @@
 # redLightTherapy
-This repo contains 3d Models for red light therapy devices.  For build instructions, see the youtube video here: (channel NathanBuildsDIY)
+This repo contains 3d Models for red light therapy devices.  For build instructions, see the youtube video here: https://youtu.be/EwB9CNfvImM (channel NathanBuildsDIY)
 Print all with PLA, no brim, 10% infill, no supports
 
 The parts list is as follows:
